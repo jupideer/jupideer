@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rainy (they/she)
-- 👀 I’m interested in art, front-end dev, animals
+- 👀 I’m interested in art, front-end dev, animals, and music
 - 🌱 I’m currently starting some personal programming projects
 
 <!---
